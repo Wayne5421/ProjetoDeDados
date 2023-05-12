@@ -9,6 +9,7 @@ o banco de dados será conectado a uma GUI (**Graphical User Interface**)
 para que possa inserir novos clientes e oferecer a opção de gerar uma
 planilha em excel com os dados
 
+
 ## Informações:
 
 Sou um estudante de sistemas da informação
@@ -17,6 +18,7 @@ este é o meu primeiro projeto real para portifólio
 
 o intuito desta documentação é para gerenciar o cronograma de criação
 e guardar anotações para compreensão
+
 
 ## Observações importantes:
 
@@ -65,11 +67,14 @@ pip install pandas tkinter mysql-connector-python
 **pip install:** É o comando utilizado para instalar pacotes do Python usando o pip
 o gerenciador de pacotes padrão do Python.
 
+
 **pandas:** É o nome do pacote que será instalado. Nesse caso, é o pacote Pandas
 usado para análise e manipulação de dados.
 
+
 **tkinter:** É o nome do pacote que será instalado. Nesse caso, é o pacote Tkinter
 usado para criar interfaces gráficas de usuário.
+
 
 **mysql-connector-python:** É o nome do pacote que será instalado. Nesse caso, é o pacote
 MySQL Connector/Python, usado para conectar e interagir com bancos de dados MySQL.
