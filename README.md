@@ -41,7 +41,7 @@ do real para preservar informações pessoais de clientes
 
 **MySql workbench**
 
-**xampp**
+**Xampp**
 
 
 # Instalação:
