@@ -51,6 +51,8 @@ do real para preservar informações pessoais de clientes
 
 ## Linguagem: [Python](https://www.python.org/downloads/)
 
+## Planejamento de dados: [BrModelo](http://www.sis4.com/brModelo/download.html)
+
 ## Banco de dados: [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
 
 ## Servidor local: [Xampp](https://www.apachefriends.org/pt_br/download.html)
@@ -96,11 +98,13 @@ MySQL Connector/Python, usado para conectar e interagir com bancos de dados MySQ
 
 2 - [Python] = Linguagem de programação que será utilizado na aplicação
 
-3 - [MySql Workbench] = Local de criação do banco de dados que será atrelado a Gui
+3 - [BrModelo] = interface de criação de modelos conceituais e lógicos
 
-4 - [Xampp] = servirá de servidor local para o banco de dados
+4 - [MySql Workbench] = Local de criação do banco de dados que será atrelado a Gui
 
-5 - [Pip] = Ferramenta para facilitar instalação de ferramentas
+5 - [Xampp] = servirá de servidor local para o banco de dados
+
+6 - [Pip] = Ferramenta para facilitar instalação de ferramentas
 
 
 ### Depedencias:
