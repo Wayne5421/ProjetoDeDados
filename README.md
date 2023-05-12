@@ -33,15 +33,15 @@ do real para preservar informações pessoais de clientes
 
 # Tecnologias:
 
-**Python**
+- **Python**
 
-**Tkinter**
+- **Tkinter**
 
-**Pandas**
+- **Pandas**
 
-**MySql workbench**
+- **MySql workbench**
 
-**Xampp**
+- **Xampp**
 
 
 # Instalação:
