@@ -39,7 +39,9 @@ do real para preservar informações pessoais de clientes
 **MySql workbench**
 **xampp**
 
+
 # Instalação:
+
 
 ## IDE: [VsCode](https://code.visualstudio.com/download) 
 
@@ -48,6 +50,7 @@ do real para preservar informações pessoais de clientes
 ## Banco de dados: [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
 
 ## Servidor local: [Xampp](https://www.apachefriends.org/pt_br/download.html)
+
 
 ### **Na maioria das vezes o Python ja vem por padrão com o pip, caso necessite instalar:**
 
@@ -82,6 +85,7 @@ MySQL Connector/Python, usado para conectar e interagir com bancos de dados MySQ
 
 ## funções das instalações e dependencias
 
+
 ### Instalações:
 
 1 - [VsCode] = Será o editor de texto onde os códigos serão feitos
@@ -93,6 +97,7 @@ MySQL Connector/Python, usado para conectar e interagir com bancos de dados MySQ
 4 - [Xampp] = servirá de servidor local para o banco de dados
 
 5 - [Pip] = Ferramenta para facilitar instalação de ferramentas
+
 
 ### Depedencias:
 
