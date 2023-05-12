@@ -27,3 +27,50 @@ esta será a minha primeira aplicação
 do real para preservar informações pessoais de clientes
 
 3 - caso algum tópico prático esteja vazio, ainda estará sendo desenvolvido
+
+
+# Tecnologias:
+
+**Python**
+**Tkinter**
+**Pandas**
+**MySql workbench**
+**xampp**
+
+# Instalação:
+
+## IDE: [VsCode](https://code.visualstudio.com/download) 
+
+## Linguagem: [Python](https://www.python.org/downloads/)
+
+## Banco de dados: [MySql Workbench](https://dev.mysql.com/downloads/workbench/)
+
+## Servidor local: [Xampp](https://www.apachefriends.org/pt_br/download.html)
+
+**Na maioria das vezes o Python ja vem por padrão com o pip, caso necessite instalar: **
+
+## [Pip](https://pip.pypa.io/en/stable/installation/)
+
+
+# Instalar dependências:
+
+**Terminal Python**:
+
+```
+pip install pandas tkinter mysql-connector-python
+
+```
+##Explicação do código:
+
+pip install: É o comando utilizado para instalar pacotes do Python usando o pip
+o gerenciador de pacotes padrão do Python.
+
+pandas: É o nome do pacote que será instalado. Nesse caso, é o pacote Pandas
+usado para análise e manipulação de dados.
+
+tkinter: É o nome do pacote que será instalado. Nesse caso, é o pacote Tkinter
+usado para criar interfaces gráficas de usuário.
+
+mysql-connector-python: É o nome do pacote que será instalado. Nesse caso, é o pacote
+MySQL Connector/Python, usado para conectar e interagir com bancos de dados MySQL.
+
