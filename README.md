@@ -47,7 +47,7 @@ do real para preservar informações pessoais de clientes
 
 ## Servidor local: [Xampp](https://www.apachefriends.org/pt_br/download.html)
 
-### Na maioria das vezes o Python ja vem por padrão com o pip, caso necessite instalar:
+### **Na maioria das vezes o Python ja vem por padrão com o pip, caso necessite instalar:**
 
 ## [Pip](https://pip.pypa.io/en/stable/installation/)
 
