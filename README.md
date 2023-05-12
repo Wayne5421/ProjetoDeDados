@@ -60,7 +60,7 @@ do real para preservar informações pessoais de clientes
 pip install pandas tkinter mysql-connector-python
 
 ```
-##Explicação do código:
+## Explicação do código:
 
 pip install: É o comando utilizado para instalar pacotes do Python usando o pip
 o gerenciador de pacotes padrão do Python.
