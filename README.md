@@ -35,9 +35,13 @@ do real para preservar informações pessoais de clientes
 
 - **Python**
 
+- **BrModelo**
+
 - **Tkinter**
 
 - **Pandas**
+
+- **Mysql-connector-python** 
 
 - **MySql workbench**
 
