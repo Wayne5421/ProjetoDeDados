@@ -34,9 +34,13 @@ do real para preservar informações pessoais de clientes
 # Tecnologias:
 
 **Python**
+
 **Tkinter**
+
 **Pandas**
+
 **MySql workbench**
+
 **xampp**
 
 
